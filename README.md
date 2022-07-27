@@ -15,8 +15,6 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/birhanugebisa)
 
-[![Birhanug github activity graph](https://activity-graph.herokuapp.com/graph?username=birhanugebisa&theme=dracula)](https://github.com/birhanugebisa/github-readme-activity-graph)
-
 ## My Status
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=birhanugebisa&count_private=true&theme=buefy&showicons=true)](https://github-readme-stats.vercel.app/api/?username=birhanugebisa&count_private=true&theme=buefy&showicons=true)
